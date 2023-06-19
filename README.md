@@ -1,4 +1,4 @@
-# Microarray gene expression analysis of Mycobacterium tuberculosis (Mtb)
+# Microarray gene expression network analysis of Mycobacterium tuberculosis (Mtb)
 
 
 
